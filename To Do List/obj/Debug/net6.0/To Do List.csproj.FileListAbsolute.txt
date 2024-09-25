@@ -1,0 +1,92 @@
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\appsettings.Development.json
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\appsettings.json
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\To Do List.exe
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\To Do List.deps.json
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\To Do List.runtimeconfig.json
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\To Do List.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\To Do List.pdb
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Npgsql.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.csproj.AssemblyReference.cache
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.AssemblyInfoInputs.cache
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.AssemblyInfo.cs
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.csproj.CoreCompileInputs.cache
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cs
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cache
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.To Do List.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.build.To Do List.props
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To Do List.props
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To Do List.props
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\staticwebassets.build.json
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\staticwebassets.development.json
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\scopedcss\bundle\To Do List.styles.css
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.csproj.CopyComplete
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\refint\To Do List.dll
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.pdb
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\To Do List.genruntimeconfig.cache
+D:\Files\ВУЗИК ;))D\To Do List\To Do List\obj\Debug\net6.0\ref\To Do List.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\appsettings.Development.json
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\appsettings.json
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\To Do List.exe
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\To Do List.deps.json
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\To Do List.runtimeconfig.json
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\To Do List.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\To Do List.pdb
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Npgsql.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Files\TSU\To Do List\To Do List\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.csproj.AssemblyReference.cache
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.AssemblyInfoInputs.cache
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.AssemblyInfo.cs
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.csproj.CoreCompileInputs.cache
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cs
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cache
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.To Do List.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.build.To Do List.props
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To Do List.props
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To Do List.props
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\staticwebassets.build.json
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\staticwebassets.development.json
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\scopedcss\bundle\To Do List.styles.css
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.csproj.CopyComplete
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.dll
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\refint\To Do List.dll
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.pdb
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\To Do List.genruntimeconfig.cache
+D:\Files\TSU\To Do List\To Do List\obj\Debug\net6.0\ref\To Do List.dll
